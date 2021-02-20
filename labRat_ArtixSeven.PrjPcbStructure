@@ -1,2 +1,3 @@
-Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=USB.SchDoc|SheetNumber=2
+Record=TopLevelDocument|FileName=DDR3.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=DDR3.SchDoc|FileName=Main.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=DDR3.SchDoc|FileName=USB.SchDoc|SheetNumber=2
